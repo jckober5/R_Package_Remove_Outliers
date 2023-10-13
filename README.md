@@ -1,4 +1,5 @@
 # R_Package_Remove_Outliers
+[https://koberstudio.com/r_package_remove_outliers/]
 ## Download on R using _devtools::install_github("jckober5/R_Package_Remove_Outliers/jkoutliers")_
 R package used to help remove outliers from a data frame.
 An outlier is an observation that lies abnormally far away from other values in a dataset. Outliers can be problematic because they can affect the results of an analysis.
